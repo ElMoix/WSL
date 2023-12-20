@@ -1,1 +1,12 @@
-# WSL
+# HOW TO INSTALL WSL
+![1](./images/ms_store_app.png)
+![2](./images/ms_store_wsl.png)
+![3](./images/features_win10.png)
+![4](./images/enabled_features.png)
+![5](./images/installed_features.png)
+![6](./images/check_wsl.png)
+![7](./images/list_wsl_os.png)
+![8](./images/install_os_wsl.png)
+![9](./images/open_wsl.png)
+![10](./images/check_os_wsl.png)
+![11](./images/solved_ping.png)
